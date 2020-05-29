@@ -1,0 +1,24 @@
+{
+  "name": "BTC-Snitch-Bot",
+  "version": "1.0.0",
+  "description": "The bot that tells you where the money came from",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rguarascia/BTC-Snitch-Bot.git"
+  },
+  "author": "Ryan Guarascia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rguarascia/BTC-Snitch-Bot/issues"
+  },
+  "homepage": "https://github.com/rguarascia/BTC-Snitch-Bot#readme",
+  "dependencies": {
+    "delay": "^4.3.0",
+    "https": "^1.0.0",
+    "json2csv": "^5.0.1"
+  }
+}
